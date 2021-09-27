@@ -1,1 +1,4 @@
-# software_design_patterns_assignment02
+**Assignment02 for the Software Design Pattern course**
+__OBSERVER PATTERN__
+
+_was made by Aliya Aitkozha, from SE-2001_
